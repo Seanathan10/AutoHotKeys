@@ -1,3 +1,3 @@
 # AutoHotKeys
 
-COlelction of autohotkey shortcuts that incrase producivitvty by 1 gajillion percent.
+Collection of autohotkey shortcuts that increase productivity by 1 gajillion percent.
